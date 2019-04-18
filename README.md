@@ -1,0 +1,2 @@
+# PIman
+Python Image Manipulator
